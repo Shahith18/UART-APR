@@ -53,7 +53,7 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 <img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/b08a17a4-290d-49a4-a8d3-3011bce86bab" />
 
 ### Fig 4: Power Report:
-<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/a22f398d-8e19-4f6d-8ef9-bd78ce8507a3" />
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/bf9dd5fb-86e9-441f-bf86-3d230bc0f75d" />
 
 ### Fig 5: Timing Report:
 <img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/07e803d0-ab19-4fa6-b9a1-34489d29dcf1" />
