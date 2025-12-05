@@ -1,4 +1,4 @@
-# UART Logic simulation & Synthesis Using nclaunch & Genus
+# Exp 6 Implementation of Physical Design Flow for a UART Block from RTL to GDSII Using Cadence Tools.
 
 ## AIM:
 
